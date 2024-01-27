@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shubham
-- 👀 I’m interested in DEVELOPING AND GAMING.
-- 🌱 I’m currently learning FULLSTACK WEB DEVELOPMENT AND ANDROID DEVELOPMENT.
-- 💞️ I’m looking to collaborate on WEB DEVELOPING
+- 👀 I’m interested in Developement and in Automation.
+- 💞️ I’m looking to collaborate with SDET
 - 📫 How to reach me 
 
 <!---
