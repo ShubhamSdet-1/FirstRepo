@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHubhTheWebDEv
+- 👋 Hi, I’m @Shubham
 - 👀 I’m interested in DEVELOPING AND GAMING.
 - 🌱 I’m currently learning FULLSTACK WEB DEVELOPMENT AND ANDROID DEVELOPMENT.
 - 💞️ I’m looking to collaborate on WEB DEVELOPING
